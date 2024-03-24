@@ -1,0 +1,11 @@
+C:\Users\40771\source\repos\ProjectSGBD\ProjectSGBD\bin\Debug\ProjectSGBD.exe.config
+C:\Users\40771\source\repos\ProjectSGBD\ProjectSGBD\bin\Debug\ProjectSGBD.exe
+C:\Users\40771\source\repos\ProjectSGBD\ProjectSGBD\bin\Debug\ProjectSGBD.pdb
+C:\Users\40771\source\repos\ProjectSGBD\ProjectSGBD\obj\Debug\ProjectSGBD.csproj.AssemblyReference.cache
+C:\Users\40771\source\repos\ProjectSGBD\ProjectSGBD\obj\Debug\ProjectSGBD.csproj.SuggestedBindingRedirects.cache
+C:\Users\40771\source\repos\ProjectSGBD\ProjectSGBD\obj\Debug\ProjectSGBD.Properties.Resources.resources
+C:\Users\40771\source\repos\ProjectSGBD\ProjectSGBD\obj\Debug\ProjectSGBD.csproj.GenerateResource.cache
+C:\Users\40771\source\repos\ProjectSGBD\ProjectSGBD\obj\Debug\ProjectSGBD.csproj.CoreCompileInputs.cache
+C:\Users\40771\source\repos\ProjectSGBD\ProjectSGBD\obj\Debug\ProjectSGBD.exe
+C:\Users\40771\source\repos\ProjectSGBD\ProjectSGBD\obj\Debug\ProjectSGBD.pdb
+C:\Users\40771\source\repos\ProjectSGBD\ProjectSGBD\obj\Debug\ProjectSGBD.Form1.resources
